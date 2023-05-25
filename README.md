@@ -3,4 +3,4 @@
 #### My involvement on campus consists of being a member of the Alpha Gamma Delta sorority chapter, the club soccer team, and the executive board for a new club called CompSci in Bethlehem. This summer, besides taking this courses, I will be working as a part-time research assistant in Dr. Jessecae Marsh's lab on campus. I will also be working a summer soccer camp and also just spend time recuperating for the upcoming 2023 fall semester.
 
 <img src="[https://your-image-url.type](https://github.com/juliaweinstein/juliaweinstein.github.io/assets/68197928/62da6356-bdd5-4af6-8f23-f635d830959d)" width="100" height="100">
-###### https://www.linkedin.com/in/julia-weinstein/
+##### https://www.linkedin.com/in/julia-weinstein/
