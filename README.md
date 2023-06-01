@@ -4,3 +4,7 @@
 
 ![WeinsteinHeadshot2023](https://github.com/juliaweinstein/juliaweinstein.github.io/assets/68197928/62da6356-bdd5-4af6-8f23-f635d830959d)
 ##### LinkedIn: https://www.linkedin.com/in/julia-weinstein/
+
+#### DataWrapper Chart
+##### Created with the following dataset: https://data.world/eia-wind/us-retail-gasoline-prices
+##### <iframe title="Weekly Gas Prices Over Multiple Decades" aria-label="Interactive line chart" id="datawrapper-chart-mLUdp" src="https://datawrapper.dwcdn.net/mLUdp/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
