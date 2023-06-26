@@ -8,7 +8,7 @@
 
 ### DataWrapper Chart
 ##### Created with the following dataset: https://www.nature.com/articles/s41597-020-00784-9/tables/7
-<iframe title="Isolation Due to COVID-19" aria-label="Multiple Pies" id="datawrapper-chart-18tjD" src="https://datawrapper.dwcdn.net/18tjD/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1526" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Isolation Due to COVID-19" aria-label="Stacked Bars" id="datawrapper-chart-18tjD" src="https://datawrapper.dwcdn.net/18tjD/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1466" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 
